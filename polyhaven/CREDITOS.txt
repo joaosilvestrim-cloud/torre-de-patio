@@ -1,0 +1,5 @@
+Texturas e céus HDR do Poly Haven (https://polyhaven.com), licença CC0 (domínio público).
+Uso livre, inclusive comercial, sem obrigação de atribuição.
+
+Céus: farm_field_puresky (2K), industrial_sunset_02_puresky (1K), qwantani_night_puresky (1K)
+Texturas (1K): asphalt_02, concrete_floor_02, sparse_grass, corrugated_iron_02, painted_metal_shutter
